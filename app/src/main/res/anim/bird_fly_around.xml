@@ -17,14 +17,21 @@
     <!-- Note that some attributes' values, such as from/toXDelta or pivotX, can be specified
     relative to the object itself (e.g. "50%" for 50% relative to itself) or relative to the
     parent (e.g. "50" or "50%p" for 50% relative to the parent). -->
-    <translate 
-        android:fromYDelta="0%p" android:toYDelta="0%p" 
+    <translate
+        android:fromYDelta="0%p" android:toYDelta="0%p"
         android:fromXDelta="0%p" android:toXDelta="100%p"
-        android:duration="5000" android:fillAfter="false"/>
-    
-    <rotate 
-        android:fromDegrees="0" android:toDegrees="-360"
-        android:pivotX="500%" android:pivotY="0%"
-        android:duration="1000" android:fillAfter="true"
-        android:startOffset="2000"/>
+        android:duration="8000" android:fillAfter="false"/>
+
+    <!--<rotate-->
+        <!--android:fromDegrees="0" android:toDegrees="-360"-->
+        <!--android:pivotX="200%" android:pivotY="0%"-->
+        <!--android:duration="1000" android:fillAfter="true"-->
+        <!--android:startOffset="2000"/>-->
+
+    <scale
+        android:fromXScale="0.0" android:toXScale="1.5"
+        android:fromYScale="0.0" android:toYScale="1.5"
+        android:duration="3000" android:fillAfter="true"
+        android:startOffset="0"/>
+
 </set>

@@ -22,46 +22,46 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="96dp"
-        android:background="@color/colorAccent" />
+        android:background="#ffffff" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#E0F2F1" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#B2DFDB" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#80CBC4" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#4DB6AC" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#26A69A" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#009688" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#00897B" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp" 
+        android:layout_height="50dp"
         android:background="#00796B" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp" 
+        android:layout_height="50dp"
         android:background="#00695C" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#004D40" />
     <!-- Material Indigo color palette -->
     <View
@@ -70,42 +70,42 @@
         android:background="#3F51B5" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#E8EAF6" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#C5CAE9" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#9FA8DA" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#7986CB" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#5C6BC0" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#3F51B5" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#3949AB" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="@color/colorPrimaryDark" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#283593" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="50dp"
         android:background="#1A237E" />
 </LinearLayout>

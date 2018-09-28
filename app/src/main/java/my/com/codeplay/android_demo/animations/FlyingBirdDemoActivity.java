@@ -38,7 +38,7 @@ public class FlyingBirdDemoActivity extends AppCompatActivity
     private Animation animLeftToRight, animFlyAround, animFadeIn, animFadeOut;
     private boolean isFlying;
 
-    @Override
+    @Override //annotation use for the compiler to build faster
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         // set the below window flag to request shared element transition between activities.
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
